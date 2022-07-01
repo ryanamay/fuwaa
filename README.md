@@ -12,11 +12,11 @@ Last Update: $LastUpdate
 student, programmer, hobbyist, gamer. coffee. sleep. repeat
 https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 
-! ▿ Techonologies/Frameworks I use                                                             ! 
-C++           JavaScript    Python        HTML          CSS           Bash          Powershell
-Node.js       React.js      jQuery        Next.js       Nginx         Caddy         REST
-Terraform     MongoDB       PostgreSQL    Kubernetes    Docker        CI/CD         Rust
-AWS           GitOps        
+! ▿ Techonologies/Frameworks I use                       🟢 Active  🟡 Mediocre  🟣 Planning ! 
+🟢C++        🟢JavaScript 🟢Python     🟢HTML       🟢CSS        🟢Bash       🟢Powershell
+🟡Node.js    🟢React.js   🟡jQuery     🟢Next.js    🟡Nginx      🟢Caddy      🟡REST
+🟡Terraform  🟡MongoDB    🟡PostgreSQL 🟡Kubernetes 🟡Docker     🟢CI/CD      🟡Rust
+🟢AWS        🟡GitOps     🟢Tailwind   
 
 ! ▿ System Information                                                                         ! 
 + jari@Maple (Main)                                            + 
