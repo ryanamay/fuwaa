@@ -1,7 +1,7 @@
 <hr>
 
 <div style="width: 5px;"></div>
-<a  href="https://discord.gg/Z8KCyQjY9q"><img align="left" width="225" src="https://go.fuwa.sh/u/Gt1Lh3.png"/></a>
+<a  href="https://discord.gg/Z8KCyQjY9q"><img align="left" width="200" src="https://go.fuwa.sh/u/Gt1Lh3.png"/></a>
 
 ```diff
 - fuwaa/readme.md ============================================================================ ⨯ 
