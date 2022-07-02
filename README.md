@@ -17,7 +17,7 @@
 ⣿⣿⣿⠄⢸⣿⣿⠄⠄⠄⠄⠙⠿⣷⣶⣤⣴⣿⠿⠿⠛⠉⠄⠄⢸⣿⣿⣿⣿⠃⠄⣴
 
 ! ▿ Who am I?                                                                                  ! 
-student, programmer, hobbyist, gamer. coffee. sleep. repeat
+student, developer, gamer who's addicted to coffee and waffles. >w<
 https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 
 ! ▿ Technologies/Frameworks I use                        🟢 Active  🟡 Mediocre  🟣 Planning ! 
@@ -45,7 +45,7 @@ https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 # RAM: DELL OEM 8GB 1600Mhz
 # STORAGE: 1000 GB SATA HDD (Internal)
 
-! Like what I do? Consider supporting me here =>  go.fuwa.sh/support                            ! 
+! Like what I do? Consider supporting me here =>  go.fuwa.sh/support or click on the banner!    ! 
 - ============================================================================================= - 
 ```
 <hr>
