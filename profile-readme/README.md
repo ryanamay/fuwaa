@@ -50,5 +50,10 @@ https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 ```
 <hr>
 <!--START_SECTION:waka-->
+
+```text
+Other                       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.17 %
+```
+
 <!--END_SECTION:waka-->
 <hr>
