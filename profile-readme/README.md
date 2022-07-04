@@ -48,7 +48,6 @@ https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 ! Like what I do? Consider supporting me here =>  go.fuwa.sh/support or click on the banner!    ! 
 - ============================================================================================= - 
 ```
-<hr>
 <!--START_SECTION:waka-->
 
 ```text
@@ -56,4 +55,3 @@ Other                       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 <!--END_SECTION:waka-->
-<hr>
