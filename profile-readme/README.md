@@ -1,5 +1,9 @@
 <hr>
 
+```diff
+# Info: Some fuwa.sh links are down due to infrastructure deployment. Please check stats.fuwa.sh for updates!       
+```
+
 <div style="width: 5px;"></div>
 <a  href="https://discord.gg/Z8KCyQjY9q"><img align="left" height="840" src="https://go.fuwa.sh/u/iaaecD.png"/></a>
 
