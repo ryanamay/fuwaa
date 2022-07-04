@@ -18,5 +18,4 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: false
           README_PATH: 'profile-readme/README.md'
-          REPO_BRANCH: 'main'
           
