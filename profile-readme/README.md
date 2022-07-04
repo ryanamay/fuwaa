@@ -1,7 +1,7 @@
 <hr>
 
 <div style="width: 5px;"></div>
-<a  href="https://discord.gg/Z8KCyQjY9q"><img align="left" height="835" src="https://go.fuwa.sh/u/iaaecD.png"/></a>
+<a  href="https://discord.gg/Z8KCyQjY9q"><img align="left" height="837" src="https://go.fuwa.sh/u/iaaecD.png"/></a>
 
 ```diff
 - fuwaa/readme.md ============================================================================ ⨯ 
@@ -69,3 +69,4 @@ o Coverage: 26 June 2022 - To: 03 July 2022
 ```
 
 <!--END_SECTION:waka-->
+<hr>
