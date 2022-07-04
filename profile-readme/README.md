@@ -27,16 +27,20 @@ https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 🟢AWS        🟡GitOps     🟢Tailwind   
 
 ! ▿ System Information                                                                         ! 
+I use 3 operating systems, that's probably more than the average developer. See the specs below!
+
 + jari@Maple (Main)                                            + 
 # OS: ReviOS 22.05
 # CPU: AMD Ryzen 7 5800H with Radeon Graphics
 # GPU: Nvidia Gefore RTX 3060
 # RAM: ASUS 16GB DDR4 3200Mhz 
 # STORAGE: 512GB NVMe (Internal) | 2128GB SATA HDD (External)
+
 + jari@MapleWSL                                                + 
 # OS: Arch Linux on Windows 10 x86_64
 # Kernel: 5.10.102.1-microsoft-standard-WSL2
 # GPU: GPU Passthrough via WSLg (Using NVIDIA CUDA)
+
 + jari@fuwaa.local                                             + 
 # OS: macOS Monterey 12.4
 # BL: OpenCore 0.7.8
