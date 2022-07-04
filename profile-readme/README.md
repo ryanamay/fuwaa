@@ -50,12 +50,13 @@ https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 ```
 <!--START_SECTION:waka-->
 
-```text
-From: 26 June 2022 - To: 03 July 2022
-
-Total Time: 24 mins
-
+```diff
+! Wakatime Statistics                                                                                                   ! 
+Total time spent malding: 24 mins | From: 26 June 2022 - To: 03 July 2022
 Other       49 hrs 27 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.17 %
+Batchfile   21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.70 %
+reg         3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.10 %
+Bash        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 %
 ```
 
 <!--END_SECTION:waka-->
