@@ -51,7 +51,11 @@ https://fuwa.sh/ · https://waferstack.com · https://nafu.me
 <!--START_SECTION:waka-->
 
 ```text
-Other                       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.17 %
+From: 26 June 2022 - To: 03 July 2022
+
+Total Time: 24 mins
+
+Other       49 hrs 27 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.17 %
 ```
 
 <!--END_SECTION:waka-->
