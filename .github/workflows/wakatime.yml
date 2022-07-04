@@ -16,6 +16,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: "chore: regenerated"
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TIME: false
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_TITLE: true
           README_PATH: 'profile-readme/README.md'
           
