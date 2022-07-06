@@ -63,8 +63,7 @@ I use 3 operating systems, that's probably more than the average developer. See 
 | Fuwaa has been malding for about 1 hr 9 mins!
 o Coverage: 28 June 2022 - 05 July 2022
 
-+ See the Graph!                                                         + 
-# Other       116 hrs 44 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.01 %
++ See the Graph! (Top 5 Languages)                                       + 
 # Markdown    29 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.42 %
 # Batchfile   21 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.30 %
 # Python      13 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.19 %
