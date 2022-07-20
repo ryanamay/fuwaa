@@ -1,9 +1,5 @@
 <hr>
 
-```diff
-# Info: Some fuwa.sh links are down due to infrastructure deployment. Please check stats.fuwa.sh for updates!       
-```
-
 <div style="width: 5px;"></div>
 <a  href="https://discord.gg/Z8KCyQjY9q"><img align="left" height="840" src="https://go.fuwa.sh/u/iaaecD.png"/></a>
 
@@ -22,7 +18,7 @@
 
 ! ▿ Who am I?                                                                                  ! 
 student, developer, gamer who's addicted to coffee and waffles. >w<
-https://fuwa.sh/ · https://waferstack.com · https://nafu.me
+fuwa.sh · waferstack.com · nafu.me · mica.one
 
 ! ▿ Technologies/Frameworks I use                        🟢 Active  🟡 Mediocre  🟣 Planning ! 
 🟢C++        🟢JavaScript 🟢Python     🟢HTML       🟢CSS        🟢Bash       🟢Powershell
